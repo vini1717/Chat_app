@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_search"
+            android:icon="@drawable/ic_action_search"
+            android:title="@string/action_search"
+            />
+        <item android:id="@+id/action_play"
+            android:icon="@drawable/ic_action_play"
+            android:title="@string/action_play"
+             />
+        <item android:id="@+id/action_settings"
+            android:icon="@drawable/setting"
+            android:title="@string/action_settings"
+             />
+
+    </group>
+</menu>

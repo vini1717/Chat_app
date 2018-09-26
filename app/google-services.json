@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820644648471",
+    "firebase_url": "https://myapk-3579e.firebaseio.com",
+    "project_id": "myapk-3579e",
+    "storage_bucket": "myapk-3579e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820644648471:android:616389460886fc05",
+        "android_client_info": {
+          "package_name": "com.example.hp.vinya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820644648471-rujl6a3okkb2334gim3c362dusoqve91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.vinya",
+            "certificate_hash": "f27db2d6de426877e5064f79f89fff773dad5f65"
+          }
+        },
+        {
+          "client_id": "820644648471-lu58ied7ujgkkha823f2688dep54lq92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOTVT2rQEYwYij24MnPXbhrSNeopT3bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820644648471-lu58ied7ujgkkha823f2688dep54lq92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
